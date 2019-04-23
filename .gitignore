@@ -10,6 +10,7 @@
 /build
 
 # misc
+eslint.txt
 .env
 .DS_Store
 .env.local
